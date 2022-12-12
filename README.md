@@ -21,3 +21,6 @@ git commit --amend
 
 --ramas
 git checkout -b rama-heroes
+
+--cambiar a la rama master
+git checkout master
