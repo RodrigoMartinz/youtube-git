@@ -24,3 +24,8 @@ git checkout -b rama-heroes
 
 --cambiar a la rama master
 git checkout master
+
+--unir ramas
+git merge rama-heores
+
+
