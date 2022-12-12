@@ -15,3 +15,9 @@ git commit -m "mensaje con el que se guarda el commit"
 git checkout -- .
 
 git log
+
+--permite editar el mensaje del ultimo commit
+git commit --amend
+
+--ramas
+git checkout -b rama-heroes
