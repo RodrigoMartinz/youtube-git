@@ -26,6 +26,10 @@ git checkout -b rama-heroes
 git checkout master
 
 --unir ramas
-git merge rama-heores
+git merge rama-heroes
 
+--ver las ramas 
+git branch
 
+--borrar las ramas
+git branch -d rama-heroes
